@@ -124,7 +124,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahed141123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="130" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahed141123&show_icons=true&theme=dark&hide_border=false" height="130" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahed141123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false&order=2" height="130" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=shahed141123&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
