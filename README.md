@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">A passionate Software and Full Stack Web Developer from Bangladesh.<br><br>I enjoy tackling complex problems and finding innovative solutions. My expertise lies in scalability and performance optimization, and I am always eager to explore new technologies. As a dedicated developer, I am committed to delivering high-quality work that meets the needs of my clients. Currently, I am working with Laravel.                                                                                                                                                                                                                                                                                                                                                                                                                                  <br><br>- 🔭 Now  I’m working as a full stack developer in NGen IT.<br>- 📚 I'm currently learning React and Docker.<br>- ⚡ In my free time I love to read books and play games.</p>
+<p align="left">A passionate Software and Full Stack Web Developer from Bangladesh.<br><br>I enjoy tackling complex problems and finding innovative solutions. My expertise lies in scalability and performance optimization, and I am always eager to explore new technologies. As a dedicated developer, I am committed to delivering high-quality work that meets the needs of my clients. Currently, I am working with Laravel.                                                                                                                                                                                                                                                                                    <br><br>- 🔭 Now  I’m working as a full stack developer in NGen IT.<br>- 📚 I'm currently learning React and Docker.<br>- ⚡ In my free time I love to read books and play games.</p>
 
 ###
 
@@ -124,7 +124,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahed141123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=false&order=1" height="130" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahed141123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="130" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahed141123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false&order=2" height="130" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=shahed141123&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
