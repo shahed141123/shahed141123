@@ -20,7 +20,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=shahed141123.shahed141123&"  />
+  <img style="width:100%;height:100%;" src="https://visitor-badge.laobi.icu/badge?page_id=shahed141123.shahed141123&"  />
 </div>
 
 ###
