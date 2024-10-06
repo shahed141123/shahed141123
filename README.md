@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/shahed141123/shahed141123/blob/main/images/Banner_image%20(3).png?raw=true"  />
+  <img style="width:100%;height:100%;" src="https://github.com/shahed141123/shahed141123/blob/main/images/Banner_image%20(3).png?raw=true"  />
 </div>
 
 ###
@@ -20,7 +20,7 @@
 ###
 
 <div align="center">
-  <img style="width:100%;height:100%;" src="https://visitor-badge.laobi.icu/badge?page_id=shahed141123.shahed141123&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shahed141123.shahed141123&"  />
 </div>
 
 ###
