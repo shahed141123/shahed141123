@@ -13,44 +13,43 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail badge"/>
   </a>
 </div>
+
 <br>
 
 <h2 align="center">Hi there, I'm Khandker Shahed 👋</h2>
 
 <p align="center">
-  I'm a Full-Stack Developer from Bangladesh with <strong>5 years of experience</strong> in building scalable web applications.
-  Currently, I'm working as a <strong>Lead Developer</strong> at <strong>NGEN IT</strong>, where I manage the full development lifecycle from planning to deployment.
+  I'm a Full Stack Developer from Bangladesh with over <strong>5 years of experience</strong> building scalable, secure, and production-ready web applications.
+  Currently, I work as a <strong>Lead Developer</strong> at <strong>NGEN IT</strong>, where I manage end-to-end software development — from architecture to deployment.
 </p>
 
 ---
 
-### 👩‍💻 About Me
+### About Me
 
-- 🔭 My expertise lies in developing robust backend and frontend systems using **Laravel, MySQL, REST APIs, and modern JavaScript**. I excel at optimizing database queries to enhance performance and improve user experience.
-- 🎓 I'm currently pursuing an **MSc in Communication Engineering** at the **University of Bologna, Italy** and hold a **BSc in Electrical and Electronic Engineering**.
-- 💡 My interests include **Problem Solving, Machine Learning & AI, Reading Novels, and Sports**.
-- 🌱 I'm always learning and currently diving deeper into containerization with Docker and exploring the Next.js ecosystem.
+- I specialize in backend and frontend development using **Laravel**, **MySQL**, **REST APIs**, and modern JavaScript.
+- Passionate about writing clean, testable code and optimizing performance at scale.
+- Currently pursuing an **MSc in Communication Engineering** at the **University of Bologna, Italy**.
+- I hold a **BSc in Electrical and Electronic Engineering**.
+- Constantly learning — right now I’m diving deeper into **Docker**, **Next.js**, and distributed systems.
+- Outside of work, I enjoy solving problems, learning about machine learning, reading novels, and playing sports.
 
 ---
 
-### 🛠️ My Tech Stack
+### Tech Stack
 
 <table>
   <tr>
     <td valign="top" width="50%">
       <h4 align="center">Backend</h4>
       <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=laravel,php,mysql,restapi,nodejs" />
-        </a>
+        <img src="https://skillicons.dev/icons?i=laravel,php,mysql,restapi,nodejs" />
       </p>
     </td>
     <td valign="top" width="50%">
       <h4 align="center">Frontend</h4>
       <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=javascript,jquery,html,css,bootstrap" />
-        </a>
+        <img src="https://skillicons.dev/icons?i=javascript,jquery,html,css,bootstrap" />
       </p>
     </td>
   </tr>
@@ -58,17 +57,13 @@
     <td valign="top" width="50%">
       <h4 align="center">DevOps & Tools</h4>
       <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,github,docker,jira,vscode" />
-        </a>
+        <img src="https://skillicons.dev/icons?i=git,github,docker,jira,vscode" />
       </p>
     </td>
-     <td valign="top" width="50%">
+    <td valign="top" width="50%">
       <h4 align="center">Familiar With</h4>
       <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=nextjs,react,vue,mongodb,postman" />
-        </a>
+        <img src="https://skillicons.dev/icons?i=nextjs,react,vue,mongodb,postman" />
       </p>
     </td>
   </tr>
@@ -76,27 +71,27 @@
 
 ---
 
-### 🚀 My Live Projects
+### Live Projects
 
-Here are some of the projects I've developed. [cite_start]You can find more on my [portfolio website](https://www.khandkershahed.com)[cite: 4].
+Here are some of the platforms I've built or contributed to. More details and case studies are available on my [portfolio site](https://www.khandkershahed.com).
 
-| Project Name | Description | Live Link |
-| :--- | :--- | :---: |
-| **ardhanggini.com** | [cite_start]A custom e-commerce platform[cite: 41, 50]. | [Visit Site](https://www.ardhanggini.com) |
-| **goflixza.com** | [cite_start]A custom QR code generator solution for a client[cite: 41, 50]. | [Visit Site](https://www.goflixza.com) |
-| **ajkal.us** | [cite_start]A dynamic news portal built with Laravel and Next.js[cite: 52]. | [Visit Site](https://www.ajkal.us) |
-| **dadabhaai.com** | [cite_start]A full-featured e-commerce website[cite: 52]. | [Visit Site](https://www.dadabhaai.com) |
-| **iurisconsulti.org** | [cite_start]A professional website for a law organization[cite: 52]. | [Visit Site](https://www.iurisconsulti.org) |
-| **weeklyinqilab.com** | [cite_start]A popular news portal with a high volume of traffic[cite: 52]. | [Visit Site](https://www.weeklyinqilab.com) |
-| **In-House HR System** | [cite_start]HR management with ZKTeco biometric integration & KPI tracking[cite: 40]. | `Private` |
+| Project | Description |
+|--------|-------------|
+| **[ardhanggini.com](https://www.ardhanggini.com)** | A custom e-commerce platform built for high availability and ease of admin management. |
+| **[goflixza.com](https://www.goflixza.com)** | A Laravel-based QR, barcode, and NFC generator with Stripe subscriptions and performance-focused architecture. |
+| **[ajkal.us](https://www.ajkal.us)** | High-traffic news portal using Laravel (API) and Next.js (frontend) with proper caching and media handling. |
+| **[dadabhaai.com](https://www.dadabhaai.com)** | Full-featured e-commerce site with product promotions, order tracking, and payment integration. |
+| **[iurisconsulti.org](https://www.iurisconsulti.org)** | A law organization platform with multi-lawyer management, legal dictionary, and access control. |
+| **[weeklyinqilab.com](https://www.weeklyinqilab.com)** | Popular Bangladeshi news portal built to handle large-scale traffic and CMS workflows. |
+| **In-House HR System** | Private project for employee tracking using ZKTeco biometric integration and warehouse-based inventory. |
 
 ---
 
-### 🔥 My GitHub Stats
+### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khandkershahed&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khandkershahed&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=khandkershahed&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khandkershahed&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="150" />
   <br>
-  <img src="https://streak-stats.demolab.com?user=khandkershahed&theme=dracula&hide_border=true" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=khandkershahed&theme=dracula&hide_border=true" height="150" />
 </div>
