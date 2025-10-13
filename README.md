@@ -75,15 +75,16 @@
 
 Here are some of the platforms I've built or contributed to. More details and case studies are available on my [portfolio site](https://www.khandkershahed.com).
 
-| Project | Description |
-|--------|-------------|
-| **[ardhanggini.com](https://www.ardhanggini.com)** | A custom e-commerce platform built for high availability and ease of admin management. |
-| **[goflixza.com](https://www.goflixza.com)** | A Laravel-based QR, barcode, and NFC generator with Stripe subscriptions and performance-focused architecture. |
-| **[ajkal.us](https://www.ajkal.us)** | High-traffic news portal using Laravel (API) and Next.js (frontend) with proper caching and media handling. |
-| **[dadabhaai.com](https://www.dadabhaai.com)** | Full-featured e-commerce site with product promotions, order tracking, and payment integration. |
-| **[iurisconsulti.org](https://www.iurisconsulti.org)** | A law organization platform with multi-lawyer management, legal dictionary, and access control. |
-| **[weeklyinqilab.com](https://www.weeklyinqilab.com)** | Popular Bangladeshi news portal built to handle large-scale traffic and CMS workflows. |
-| **In-House HR System** | Private project for employee tracking using ZKTeco biometric integration and warehouse-based inventory. |
+| Project Name | Description | Live Link |
+| :--- | :--- | :---: |
+| **ardhanggini.com** | A custom e-commerce platform built for high availability and ease of admin management. | [Visit Site](https://www.ardhanggini.com) |
+| **goflixza.com** | A Laravel-based QR, barcode, and NFC generator with Stripe subscriptions and performance-focused architecture. | [Visit Site](https://www.goflixza.com) |
+| **ajkal.us** | High-traffic news portal using Laravel (API) and Next.js (frontend) with proper caching and media handling. | [Visit Site](https://www.ajkal.us) |
+| **dadabhaai.com** | Full-featured e-commerce site with product promotions, order tracking, and payment integration. | [Visit Site](https://www.dadabhaai.com) |
+| **iurisconsulti.org** | A law organization platform with multi-lawyer management, legal dictionary, and access control. | [Visit Site](https://www.iurisconsulti.org) |
+| **weeklyinqilab.com** | A popular news portal with a high volume of traffic. | [Visit Site](https://www.weeklyinqilab.com) |
+| **In-House HR System** | Private project for HR management with ZKTeco biometric integration & KPI tracking. | `Private` |
+| **Inventory Management System** | Warehouse-based inventory management system, sales and stock tracking. | `Private` |
 
 ---
 
