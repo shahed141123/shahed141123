@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="width:100%;" src="https://raw.githubusercontent.com/khandkershahed/khandkershahed/main/banner.png" alt="Khandker Shahed - Full Stack Developer Banner"/>
+  <img style="width:100%;" src="https://github.com/khandkershahed/khandkershahed/blob/main/images/Banner_image%20(3).png?raw=true" alt="Khandker Shahed - Full Stack Developer Banner"/>
 </div>
 
 <div align="center">
@@ -18,17 +18,17 @@
 <h2 align="center">Hi there, I'm Khandker Shahed 👋</h2>
 
 <p align="center">
-  [cite_start]I'm a Full-Stack Developer from Bangladesh with <strong>4.5 years of experience</strong> in building scalable web applications[cite: 30].<br />
-  [cite_start]Currently, I'm working as a <strong>Lead Developer</strong> at <strong>NGEN IT</strong> [cite: 34, 35][cite_start], where I manage the full development lifecycle from planning to deployment[cite: 37].
+  I'm a Full-Stack Developer from Bangladesh with <strong>4.5 years of experience</strong> in building scalable web applications.
+  Currently, I'm working as a <strong>Lead Developer</strong> at <strong>NGEN IT</strong>, where I manage the full development lifecycle from planning to deployment.
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-- [cite_start]🔭 My expertise lies in developing robust backend and frontend systems using **Laravel, MySQL, REST APIs, and modern JavaScript**[cite: 19, 21, 30]. [cite_start]I excel at optimizing database queries to enhance performance and improve user experience[cite: 47].
-- [cite_start]🎓 I'm currently pursuing an **MSc in Communication Engineering** at the **University of Bologna, Italy** [cite: 10, 11] [cite_start]and hold a **BSc in Electrical and Electronic Engineering**[cite: 13, 14, 15].
-- [cite_start]💡 My interests include **Problem Solving, Machine Learning & AI, Reading Novels, and Sports**[cite: 54].
+- 🔭 My expertise lies in developing robust backend and frontend systems using **Laravel, MySQL, REST APIs, and modern JavaScript**. I excel at optimizing database queries to enhance performance and improve user experience.
+- 🎓 I'm currently pursuing an **MSc in Communication Engineering** at the **University of Bologna, Italy** and hold a **BSc in Electrical and Electronic Engineering**.
+- 💡 My interests include **Problem Solving, Machine Learning & AI, Reading Novels, and Sports**.
 - 🌱 I'm always learning and currently diving deeper into containerization with Docker and exploring the Next.js ecosystem.
 
 ---
