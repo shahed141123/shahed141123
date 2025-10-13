@@ -18,7 +18,7 @@
 <h2 align="center">Hi there, I'm Khandker Shahed 👋</h2>
 
 <p align="center">
-  I'm a Full-Stack Developer from Bangladesh with <strong>4.5 years of experience</strong> in building scalable web applications.
+  I'm a Full-Stack Developer from Bangladesh with <strong>5 years of experience</strong> in building scalable web applications.
   Currently, I'm working as a <strong>Lead Developer</strong> at <strong>NGEN IT</strong>, where I manage the full development lifecycle from planning to deployment.
 </p>
 
