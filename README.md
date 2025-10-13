@@ -1,132 +1,120 @@
+```markdown
 <div align="center">
-  <img style="width:100%;height:100%;" src="https://github.com/shahed141123/shahed141123/blob/main/images/Banner_image%20(3).png?raw=true"  />
+<img style="width:100%;" src="https://www.google.com/search?q=https://raw.githubusercontent.com/khandkershahed/khandkershahed/main/banner.png" alt="Khandker Shahed - Full Stack Developer Banner"/>
 </div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/khandker-shahed-1a3716173/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/khandkershahed/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-  <a href="khandkershahed23@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-</div>
-
-###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=shahed141123.shahed141123&"  />
+<a href="https://www.google.com/search?q=https://www.khandkershahed.com" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/static/v1%3Fmessage%3DPortfolio%26logo%3Dreact%26label%3D%26color%3D61DAFB%26logoColor%3Dwhite%26labelColor%3D%26style%3Dfor-the-badge" height="25" alt="portfolio badge"/>
+</a>
+<a href="https://www.linkedin.com/in/khandker-shahed-1a3716173/" target="_blank">
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin badge"/>
+</a>
+<a href="mailto:khandkershahed23@gmail.com" target="_blank">
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail badge"/>
+</a>
 </div>
 
-###
 
-<h2 align="center">আসসালামু আলাইকুম, 👋 | I am Khandker Shahed.</h2>
+<h2 align="center">Hi there, I'm Khandker Shahed 👋</h2>
 
-###
+<p align="center">
+I'm a Full-Stack Developer from Bangladesh with <strong>4.5 years of experience</strong> in building scalable web applications.<br />
+Currently, I'm working as a <strong>Lead Developer</strong> at <strong>NGEN IT</strong>, where I manage the full development lifecycle from planning to deployment.
+</p>
 
-<h3 align="left">👩‍💻  About Me</h3>
 
-###
 
-<p align="left">A passionate Software and Full Stack Web Developer from Bangladesh.<br><br>I enjoy tackling complex problems and finding innovative solutions. My expertise lies in scalability and performance optimization, and I am always eager to explore new technologies. As a dedicated developer, I am committed to delivering high-quality work that meets the needs of my clients. Currently, I am working with Laravel.                                                                                                                                                                                                                                                                                    <br><br>- 🔭 Now  I’m working as a full stack developer in NGen IT.<br>- 📚 I'm currently learning React and Docker.<br>- ⚡ In my free time I love to read books and play games.</p>
 
-###
+👩‍💻 About Me
+🔭 My expertise lies in developing robust backend and frontend systems using Laravel, MySQL, REST APIs, and modern JavaScript. I excel at optimizing database queries to enhance performance and improve user experience.
 
-<h3 align="left">🛠 Language and tools</h3>
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" alt="phpstorm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="40" alt="babel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" height="40" alt="codepen logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" alt="redhat logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-</div>
+🎓 I'm currently pursuing an MSc in Communication Engineering at the University of Bologna, Italy and hold a BSc in Electrical and Electronic Engineering.
 
-###
 
-<h3 align="left">🔥   My Stats :</h3>
+💡 My interests include Problem Solving, Machine Learning & AI, Reading Novels, and Sports.
 
-###
+🌱 I'm always learning and currently diving deeper into containerization with Docker and exploring the Next.js ecosystem.
 
-<br clear="both">
+🛠️ My Tech Stack
+<table>
+<tr>
+<td valign="top" width="50%">
+<h4 align="center">Backend</h4>
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dlaravel,php,mysql,restapi,nodejs" />
+</a>
+</p>
+</td>
+<td valign="top" width="50%">
+<h4 align="center">Frontend</h4>
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djavascript,jquery,html,css,bootstrap" />
+</a>
+</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+<h4 align="center">DevOps & Tools</h4>
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgit,github,docker,jira,vscode" />
+</a>
+</p>
+</td>
+<td valign="top" width="50%">
+<h4 align="center">Familiar With</h4>
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnextjs,react,vue,mongodb,postman" />
+</a>
+</p>
+</td>
+</tr>
+</table>
 
+🚀 My Live Projects
+Here are some of the projects I've developed. You can find more on my portfolio website <h3><a href="https://khandkershahed.com">khandkershahed.com</a></h3>.
+
+Project Name	Description	Live Link
+ardhanggini.com	
+A custom e-commerce platform 
+
+Visit Site
+goflixza.com	
+A custom QR code generator solution for a client 
+
+Visit Site
+ajkal.us	A dynamic news portal built with Laravel and Next.js	Visit Site
+dadabhaai.com	
+A full-featured e-commerce website 
+
+Visit Site
+iurisconsulti.org	
+A professional website for a law organization 
+
+Visit Site
+weeklyinqilab.com	
+A popular news portal with a high volume of traffic 
+
+Visit Site
+In-House HR System	
+HR management with ZKTeco biometric integration & KPI tracking 
+
+Private
+
+Export to Sheets
+🔥 My GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahed141123&show_icons=true&theme=dark&hide_border=false" height="130" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahed141123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false&order=2" height="130" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=shahed141123&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dkhandkershahed%26show_icons%3Dtrue%26theme%3Ddracula%26hide_border%3Dtrue%26count_private%3Dtrue" height="150" alt="stats graph"  />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3Dkhandkershahed%26layout%3Dcompact%26theme%3Ddracula%26hide_border%3Dtrue%26langs_count%3D6" height="150" alt="languages graph"  />
 
-###
+
+
+<img src="https://www.google.com/search?q=https://streak-stats.demolab.com%3Fuser%3Dkhandkershahed%26theme%3Ddracula%26hide_border%3Dtrue" height="150" alt="streak graph" />
+</div>
